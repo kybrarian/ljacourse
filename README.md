@@ -1,3 +1,3 @@
 # ljacourse
 
-Hellow world
+Hello world
